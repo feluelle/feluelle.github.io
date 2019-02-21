@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey, I am glad you came here. :blush:
+Hey, I am glad you came here. 😊
 
 My name is Felix Uellendall, I am 25 years old and currently working as a Data Engineer at Publicis Pixelpark GmbH in Berlin, Germany.
 
