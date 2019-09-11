@@ -10,4 +10,4 @@ My name is Felix Uellendall, I am 25 years old and currently working as a Data E
 
 I love creating things, solving puzzles, thinking about code and what can be improved. Open Source is what I like doing the most. I want to build things that people enjoy working with.
 
-I am an active Contributor of the [Apache Airflow](https://github.com/apache/airflow) project.
+I am an ASF Member and [Apache Airflow](https://github.com/apache/airflow) Committer.
