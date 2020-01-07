@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+## Me
 
 Hey, I am glad you came here. 😊
 
