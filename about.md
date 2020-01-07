@@ -25,17 +25,17 @@ See what I want to achieve..
 
 ### Technical
 
-- [x] Contribute to an Open Source Project
-- [x] Join the Apache Software Foundation
-- [x] Become a Committer of the Apache Airflow Project
-- [] Publish my first blog post
+- ✔️ Contribute to an Open Source Project
+- ✔️ Join the Apache Software Foundation
+- ✔️ Become a Committer of the Apache Airflow Project
+- ❌ Publish my first blog post
 - ...
 
 ### Hiking
 
-- [x] Go hiking by myself
-- [] Hike the "Via de la Plata"
-- [] Hike in Iceland
+- ✔️ Go hiking by myself
+- ❌ Hike the "Via de la Plata"
+- ❌ Hike in Iceland
 - ...
 
 ### Other
