@@ -34,8 +34,8 @@ See what I want to achieve..
 ### Hiking
 
 - ✔️ Go hiking by myself
-- ❌ Hike the "Via de la Plata"
-- ❌ Hike in Iceland
+- ❌ "Camino - Via de la Plata" 1000km in Spain
+- ❌ "Laugavegur and Fimmvörðuháls - Hiking from Skógar to Landmannalaugar" 77,6km in Iceland
 - ...
 
 ### Other
