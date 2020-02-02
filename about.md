@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey, I am glad you came here. 😊
 
-My name is Felix Uellendall, I am 25 years old and currently working as a Data Engineer at
+My name is Felix Uellendall, I am 26 years old and currently working as a Data Engineer at
 Digitas Pixelpark in Berlin, Germany.
 I joined the [Apache Software Foundation](https://www.apache.org/) in September 2019.
 Since then I am an [Apache Airflow](https://github.com/apache/airflow) Committer.
