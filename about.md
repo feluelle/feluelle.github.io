@@ -39,6 +39,11 @@ See what I want to achieve..
 - ❌ "Laugavegur and Fimmvörðuháls - Hiking from Skógar to Landmannalaugar" 77,6km in Iceland
 - ...
 
+### Universe
+
+- ❌ Buy a telescope
+- ...
+
 ### Other
 
 - ...
