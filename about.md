@@ -19,7 +19,7 @@ I also fell in love with the nature 🍃 and the silence being out there.
 I like hiking 🌄, going out and drinking beer 🍻 with friends,
 playing the piano 🎹 and am fascinated by the universe 🌌.
 
-## Life Goals
+## Bucket List
 
 See what I want to achieve..
 
@@ -33,7 +33,8 @@ See what I want to achieve..
 
 ### Hiking
 
-- ✔️ Go hiking by myself
+- ✔️ Go hiking
+- ❌ "Camino - Portuguese" 240km in Spain/Portugal
 - ❌ "Camino - Via de la Plata" 1000km in Spain
 - ❌ "Laugavegur and Fimmvörðuháls - Hiking from Skógar to Landmannalaugar" 77,6km in Iceland
 - ...
