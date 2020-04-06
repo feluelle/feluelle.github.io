@@ -9,7 +9,7 @@ permalink: /about/
 Hey, I am glad you came here. 😊
 
 My name is Felix Uellendall, I am 26 years old and currently working as a Data Engineer at
-Digitas Pixelpark in Berlin, Germany.
+[Digitas Pixelpark](https://www.digitaspixelpark.com/) in Berlin, Germany.
 I joined the [Apache Software Foundation](https://www.apache.org/) in September 2019.
 Since then I am an [Apache Airflow](https://github.com/apache/airflow) Committer.
 
@@ -26,8 +26,8 @@ See what I want to achieve..
 ### Technical
 
 - ✔️ Contribute to an Open Source Project
-- ✔️ Join the Apache Software Foundation
 - ✔️ Become a Committer of the Apache Airflow Project
+- ✔️ Join the Apache Software Foundation
 - ❌ Publish my first blog post
 - ...
 
@@ -35,8 +35,8 @@ See what I want to achieve..
 
 - ✔️ Go hiking
 - ❌ "Camino - Portuguese" 240km in Spain/Portugal
-- ❌ "Camino - Via de la Plata" 1000km in Spain
 - ❌ "Laugavegur and Fimmvörðuháls - Hiking from Skógar to Landmannalaugar" 77,6km in Iceland
+- ❌ "Camino - Via de la Plata" 1000km in Spain
 - ...
 
 ### Universe
