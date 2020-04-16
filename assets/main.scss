@@ -1,16 +1,5 @@
 ---
+# Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// Colors primarily stolen from https://colorhunt.co/palette/62193 :)
-$brand-color: #14ffec;
-$background-color: #212121;
-$text-color: #e8e8e8; // or #d2d2d2
-$grey-color-light: #323232;
-$grey-color-dark: #0d7377;
-
-@import "{{ site.theme }}";
-
-pre, code { 
-    background-color: transparent;
-    border-color: #14ffec;
-}
+@import 'modern-resume-theme';

@@ -1,0 +1,51 @@
+- layout: left
+  company: Apache Software Foundation
+  link: https://www.apache.org/
+  job_title: Apache Airflow Committer
+  dates: September 2019 - Present
+  quote: >
+   Open Source is Love ❤️. Communication is Key 💬. Commitment 🔐.
+  description: |
+   I began contributing to an open source project called _Apache Airflow_ in February 2018. From there on I 
+   contributed to it more and more by fixing some documentation issues and later on added some missing tests 
+   to the code base. I then joined the communities email list and slack channel to be able to ask questions 
+   and just be able to talk to the community and be part of it.
+   On August the 27th, I became a invitation to become an Apache Airflow Committer and to join the Apache 
+   Software Foundation. I accepted it and am now much more committed to the project then before. I am working 
+   on the project in my free time to advance it, to find new contributors and perhaps future committers and 
+   take part on discussions about design decisions, etc.
+- layout: right
+  company: Digitas Pixelpark GmbH
+  link: https://www.digitaspixelpark.com/
+  job_title: Junior Data Engineer
+  dates: January 2018 - Present
+  quote: >
+   Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.
+  description: |
+   As a Junior Data Engineer at Digitas Pixelpark GmbH (former Publicis Pixelpark GmbH) I am working in a team 
+   of six where I am responsible for our data management platform.
+   The data management platform is fully hosted on AWS and consist of Amazon Redshift, AWS S3, Amazon EC2 and 
+   AWS Transfer for SFTP. The orchestration part for our data pipelines is managed by Apache Airflow in Docker 
+   on an EC2 instance. A typical workflow consists of extracting data from an external REST API and sending it 
+   to S3, then downloading it from S3, transforming it with Python to be analytics-ready, uploading it to S3 
+   and then loading it into Redshift. But we have also very complex workflows which contain reading email 
+   attachments from our internal mail server and handling input from manual data sources.
+   For our development lifecycle we are using GitLab CI/CD, to lint, build documentation, test and deploy our 
+   code onto the EC2 instance.
+   I am currently working on setting up our orchestration and computation part onto a Kubernetes Cluster.
+- layout: left
+  company: NETRONIC Software GmbH
+  link: https://www.netronic.com/
+  job_title: Student Research Assistant
+  dates: August 2012 - August 2016
+  quote: >
+   Code can be elegant 💎. Teamwork 👪. Learn to code 💻.
+  description: |
+   As a Student Research Assistant at NETRONIC Software GmbH I started by creating .NET Windows Forms 
+   applications in C#. We worked in a team of three, wrote code in Microsoft Visual Studio and used the Team 
+   Foundation Server as our Version Control System.
+   After two years I worked on a new project where I built a web application which connects to the Microsoft 
+   Azure Active Directoy via a REST API to manage users for one of our products. I developed it using 
+   JavaScript, Node.js, Express.js and Pug.js.
+   After this project was finished I started a project where I built a hybrid mobile application 
+   using Angular and Ionic to offer our customers a way to monitor their machines status.
