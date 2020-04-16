@@ -1,5 +1,6 @@
 - layout: top-middle
   name: Apache Airflow
+  link: https://github.com/apache/airflow
   github: apache/airflow
   quote: >
     Airflow is a platform to programmatically author, schedule and monitor workflows. - and I love it ❤️. 
@@ -9,6 +10,7 @@
     of this project and spending a lot of my time on it.
 - layout: top-middle
   name: pi-analytics
+  link: https://github.com/feluelle/pi-analytics
   github: feluelle/pi-analytics
   quote: >
     An analytics stack on a raspberry pi deployed in kubernetes.
@@ -17,6 +19,7 @@
     I am creating this to allow almost everyone to host a whole analytics stack at home on a cheap computer.
 - layout: top-middle
   name: pi-movies
+  link: https://github.com/feluelle/pi-movies
   github: feluelle/pi-movies
   quote: >
     A database and api service for movies 🎥 hosted on a dockerized 🐳 raspberry pi. 
