@@ -1,33 +1,29 @@
 - layout: left
   name: OSZ IMT - Oberstufenzentrum Informations- und Medizintechnik
   dates: September 2016 - January 2018
-  qualification: Trainee IT specialist for application development
-  quote: >
-   Learn from the best 😎. Be open to opinions from everyone 💭.
+  qualification: Trainee IT specialist for application development   
   description: |
-   During my time of the apprentice I worked at the Publicis Pixelpark GmbH in the frontend and backend teams. 
-   There me and a colleague worked together on the following projects. We started by creating a REST API with 
-   the Spring Framework in Java. For this REST API we added a web application in HTML, CSS and JavaScript. For 
-   the development we used an existing internal framework based on Node.js, Express.js und Handlebars. To work 
-   together efficiently we committed and pushed our code to GitLab.
-   For my final thesis I created a command line application which was used by our data team for automated 
-   transfer of social listening data. The data was pulled from a REST API and sent to a streaming service 
-   called _Alooma_. From there Alooma was pushing the data to Amazon Redshift.
-   The OSZ IMT (which is a College of Further Education) mainly teached us about software development and the 
-   basics of programming. There I completed the following two certificates 
-   _Microsoft Technology Associate: Database Administration Fundamentals_ and 
-   _Microsoft Technology Associate: Software Development Fundamentals_.
-- layout: right
-  name: FH Aachen – Aachen University of Applied Sciences
-  dates: August 2013 - August 2016
-  qualification: None
-  quote: >
-   Lifelong learning ✔️.
-  description: |
-   At the FH Aachen I studied ICT with specifics in application development. There I learned a bit about 
-   everything - basically how the PC works and also the internet. We had seminars about databases, networks, 
-   programming, algorithms, etc. I also completed two certificates there:
-   _FH Aachen IT Academy Zertifikat: Computer Hacking Forensic Investigator_ and 
-   _FH Aachen IT Academy Zertifikat: Angriffe auf Webseiten - SQL Injection_
-   But after six semesters and not really that much of progess in exams I decided to cancel. I really learned 
-   a lot during this time and I do not regret any decision about it.
+   During my time of the apprentice I worked at the Publicis Pixelpark GmbH. There I..
+   * created a REST API with the Spring Framework in Java
+   * created a web application with Node.js, Express.js und Handlebars
+   * created a command line application for our data team for automated transfer of social listening data into 
+   a streaming service and finally into Amazon Redshift
+
+   **Learn from the best 😎. Be open to opinions from everyone 💭.**
+# - layout: right
+#   name: FH Aachen – Aachen University of Applied Sciences
+#   dates: August 2013 - August 2016
+#   qualification: None
+#   description: |
+#    At the FH Aachen I studied ICT with specifics in application development. I..
+#    * learnt the basics of programming in C++
+#    * learnt about algorithms and data structures
+#    * learnt about it security and forensic
+
+#    There I learned a bit about 
+#    everything - basically how the PC works and also the internet. We had seminars about databases, networks, 
+#    programming, algorithms, etc. I also completed two certificates there:
+#    _FH Aachen IT Academy Zertifikat: Computer Hacking Forensic Investigator_ and 
+#    _FH Aachen IT Academy Zertifikat: Angriffe auf Webseiten - SQL Injection_
+#    But after six semesters and not really that much of progess in exams I decided to cancel. I really learned 
+#    a lot during this time and I do not regret any decision about it.

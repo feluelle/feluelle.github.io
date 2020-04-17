@@ -3,25 +3,24 @@
   link: https://github.com/apache/airflow
   github: apache/airflow
   quote: >
-    Airflow is a platform to programmatically author, schedule and monitor workflows. - and I love it ❤️. 
+    "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
   description: |
-    I found this project in January 2018 when we (at Pixelpark) needed a solution for workflow management 
-    of our data pipelines. I added this to my projects even it is not created by myself, but I am a committer 
+    I found this project in January 2018 when I searched for a solution for workflow management 
+    of data pipelines. I added this to my projects even it is not created by myself, but I am a committer 
     of this project and spending a lot of my time on it.
 - layout: top-middle
   name: pi-analytics
   link: https://github.com/feluelle/pi-analytics
   github: feluelle/pi-analytics
   quote: >
-    An analytics stack on a raspberry pi deployed in kubernetes.
+    "An analytics stack on a raspberry pi deployed in kubernetes." - Felix Uellendall
   description: |
-    **This is work-in-progress.** 
     I am creating this to allow almost everyone to host a whole analytics stack at home on a cheap computer.
 - layout: top-middle
   name: pi-movies
   link: https://github.com/feluelle/pi-movies
   github: feluelle/pi-movies
   quote: >
-    A database and api service for movies 🎥 hosted on a dockerized 🐳 raspberry pi. 
+    "A database and api service for movies 🎥 hosted on a dockerized 🐳 raspberry pi." - Felix Uellendall
   description: |
     I created this project so that you can easily host a API service by yourself on a cheap computer.

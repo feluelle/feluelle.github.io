@@ -28,22 +28,26 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Felix Uellendall, I am 26 years old and currently working as a Data Engineer at 
-  Digitas Pixelpark GmbH in Berlin, Germany. I joined the Apache Software Foundation in September 2019. 
-  Since then I am also an Apache Airflow Committer.
+  Hi, my name is Felix Uellendall. I am a young Data Engineer working in a data team at a big company in 
+  Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
+  Airflow Committer.
 
-  I am most skilled in: **Python**, **Apache Airflow** and **Unit Testing**
+  **Technical Skills**
 
-  I have also experience in: Docker, C#, Java, SQL, JavaScript, HTML, CSS, Git, PostgreSQL, CI/CD, REST, 
-  ETL/ELT, Amazon Redshift, AWS S3, Amazon EC2, Software Development, Software Design, SOLID, TDD
+  I am most skilled in: Python, Apache Airflow and Unit Testing
 
-  I am familiar with: AWS, Node.js, Express.js and Kubernetes
+  I have experience in: ETL/ELT, REST, CI/CD, Software Design, Software Development, Agile Methodologies, AWS, 
+  Docker, Git, JavaScript, HTML, CSS, PostgreSQL, Amazon Redshift, Python Pandas, C#, Java, MySQL
 
-  Languages: **German** and English 
-  (B1 in [cambridgeenglish business test](https://www.cambridgeenglish.org/test-your-english/business))
+  I am familiar with: Node.js, Express.js, Test Driven Development and Kubernetes
 
-  Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
-  Or do you want to [connect](https://www.linkedin.com/in/feluelle/)?
+  **Languages**
+
+  My first language is German and my second language is English (B1)
+# (B1 according to [cambridge english business test](https://www.cambridgeenglish.org/test-your-english/business))
+
+# Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
+# Or would you like to [connect](https://www.linkedin.com/in/feluelle/)?
 
 # Projects Section
 # projects_title: Projects
