@@ -37,13 +37,13 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: Python, Apache Airflow and Unit Testing
 
   I have experience in: ETL/ELT, REST, CI/CD, Software Design, Software Development, Agile Methodologies, AWS, 
-  Docker, Git, JavaScript, HTML, CSS, PostgreSQL, Amazon Redshift, Python Pandas, C#, Java, MySQL
+  Docker, Git, JavaScript, HTML, CSS, PostgreSQL, Amazon Redshift, Python Pandas, C#, Java and MySQL
 
   I am familiar with: Node.js, Express.js, Test Driven Development and Kubernetes
 
   **Languages**
 
-  My first language is German and my second language is English (B1)
+  German (first language) and English (B2)
 # (B1 according to [cambridge english business test](https://www.cambridgeenglish.org/test-your-english/business))
 
 # Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
@@ -65,7 +65,7 @@ more_content: | # this will include new lines to allow paragraphs
   Open Source is what I like doing the most. I want to build things that people enjoy working with.
   I also fell in love with the nature 🍃 and the silence being out there.
   I like hiking 🌄, going out and drinking beer 🍻 with friends,
-  playing the piano 🎹 and am fascinated by the universe 🌌.
+  playing the piano 🎹 and I am fascinated by the universe 🌌.
 
 # Footer
 footer_show_references: true

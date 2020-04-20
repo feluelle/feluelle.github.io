@@ -18,7 +18,7 @@
    * testing new releases and vote on them
 
    **Open Source is Love ❤️. Communication is Key 💬. Commitment 🔐.**
-- layout: right
+- layout: left
   company: Digitas Pixelpark GmbH
   link: https://www.digitaspixelpark.com/
   job_title: Junior Data Engineer
@@ -37,19 +37,19 @@
    * monitoring of our data pipelines
 
    **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
-# - layout: left
-#   company: NETRONIC Software GmbH
-#   link: https://www.netronic.com/
-#   job_title: Student Research Assistant
-#   dates: August 2012 - August 2016
-#   quote: >
-#    "Our mission is to enable every SMB organization to achieve operational agility with visual scheduling." - NETRONIC Software GmbH
-#   description: |
-#    * built a .NET Windows Forms applications in C#
-#    * learnt that code readibility is important through refactoring and mentorship
-#    * worked in a team and get involved into a version control system
-#    * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
-#    of our products
-#    * built a hybrid mobile application to let our customers monitor their machines status easily
+- layout: left
+  company: NETRONIC Software GmbH
+  link: https://www.netronic.com/
+  job_title: Student Research Assistant
+  dates: August 2012 - August 2016
+  quote: >
+   "Our mission is to enable every SMB organization to achieve operational agility with visual scheduling." - NETRONIC Software GmbH
+  description: |
+   * built a .NET Windows Forms applications in C#
+   * learnt that code readibility is important through refactoring and mentorship
+   * worked in a team and get involved into a version control system
+   * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
+   of our products
+   * built a hybrid mobile application to let our customers monitor their machines status easily
 
-#    **Code can be elegant 💎. Teamwork 👪. Coding 💻.**
+   **Code can be elegant 💎. Teamwork 👪. Coding 💻.**

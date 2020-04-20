@@ -7,23 +7,23 @@
    * created a REST API with the Spring Framework in Java
    * created a web application with Node.js, Express.js und Handlebars
    * created a command line application for our data team for automated transfer of social listening data into 
-   a streaming service and finally into Amazon Redshift
-
-   **Learn from the best 😎. Be open to opinions from everyone 💭.**
-# - layout: right
-#   name: FH Aachen – Aachen University of Applied Sciences
-#   dates: August 2013 - August 2016
-#   qualification: None
-#   description: |
-#    At the FH Aachen I studied ICT with specifics in application development. I..
-#    * learnt the basics of programming in C++
-#    * learnt about algorithms and data structures
-#    * learnt about it security and forensic
-
-#    There I learned a bit about 
-#    everything - basically how the PC works and also the internet. We had seminars about databases, networks, 
-#    programming, algorithms, etc. I also completed two certificates there:
-#    _FH Aachen IT Academy Zertifikat: Computer Hacking Forensic Investigator_ and 
-#    _FH Aachen IT Academy Zertifikat: Angriffe auf Webseiten - SQL Injection_
-#    But after six semesters and not really that much of progess in exams I decided to cancel. I really learned 
-#    a lot during this time and I do not regret any decision about it.
+   a streaming service and finally in to Amazon Redshift
+- layout: left
+  name: FH Aachen – Aachen University of Applied Sciences
+  dates: August 2013 - August 2016
+  qualification: Bachelor of Science (B. Sc.) [CANCELED]
+  # description: |
+  #  At the FH Aachen I studied ICT with specifics in application development. I learnt about..
+  #  * the basics of programming in C++
+  #  * several other programming languages like Assembly, Prolog and Matlab
+  #  * algorithms and data structures
+  #  * IT security and forensic
+  #  * databases and web technologies
+  #  * computer systems architectures, operating systems and distributed systems
+- layout: left
+  name: Bk GuT – Berufskolleg für Gestaltung und Technik
+  dates: August 2010 - August 2013
+  qualification: IT assistant and advanced technical college entrance qualification
+  # description: |
+  # * the basics of programming in C# and Java
+  # * ...
