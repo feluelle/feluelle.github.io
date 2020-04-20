@@ -63,9 +63,8 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   I love creating things, solving puzzles, thinking about code and what can be improved.
   Open Source is what I like doing the most. I want to build things that people enjoy working with.
-  I also fell in love with the nature 🍃 and the silence being out there.
-  I like hiking 🌄, going out and drinking beer 🍻 with friends,
-  playing the piano 🎹 and I am fascinated by the universe 🌌.
+  I also fell in love with the nature and the silence being out there.
+  I like hiking, playing the piano and I am fascinated by the universe.
 
 # Footer
 footer_show_references: true

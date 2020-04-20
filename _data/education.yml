@@ -1,5 +1,6 @@
 - layout: left
   name: OSZ IMT
+  link: https://www.oszimt.de/
   quote: >
    Oberstufenzentrum Informations- und Medizintechnik
   dates: September 2016 - January 2018
@@ -12,6 +13,7 @@
    a streaming service and finally in to Amazon Redshift
 - layout: left
   name: FH Aachen
+  link: https://www.fh-aachen.de/
   quote: >
    Aachen University of Applied Sciences
   dates: August 2013 - August 2016
@@ -26,6 +28,7 @@
   #  * computer systems architectures, operating systems and distributed systems
 - layout: left
   name: Bk GuT
+  link: https://www.bkgut.de/
   quote: >
    Berufskolleg für Gestaltung und Technik
   dates: August 2010 - August 2013
