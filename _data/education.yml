@@ -1,5 +1,7 @@
 - layout: left
-  name: OSZ IMT - Oberstufenzentrum Informations- und Medizintechnik
+  name: OSZ IMT
+  quote: >
+   Oberstufenzentrum Informations- und Medizintechnik
   dates: September 2016 - January 2018
   qualification: Trainee IT specialist for application development   
   description: |
@@ -9,7 +11,9 @@
    * created a command line application for our data team for automated transfer of social listening data into 
    a streaming service and finally in to Amazon Redshift
 - layout: left
-  name: FH Aachen – Aachen University of Applied Sciences
+  name: FH Aachen
+  quote: >
+   Aachen University of Applied Sciences
   dates: August 2013 - August 2016
   qualification: Bachelor of Science (B. Sc.) [CANCELED]
   # description: |
@@ -21,7 +25,9 @@
   #  * databases and web technologies
   #  * computer systems architectures, operating systems and distributed systems
 - layout: left
-  name: Bk GuT – Berufskolleg für Gestaltung und Technik
+  name: Bk GuT
+  quote: >
+   Berufskolleg für Gestaltung und Technik
   dates: August 2010 - August 2013
   qualification: IT assistant and advanced technical college entrance qualification
   # description: |
