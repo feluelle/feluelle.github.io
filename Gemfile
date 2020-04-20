@@ -11,3 +11,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # bundle install
 # bundle update
 # bundle exec jekyll serve
+# 1. https://www.sejda.com/html-to-pdf
+# 2. Convert URL to pdf https://feluelle.github.io/
+# 3. Save pdf
