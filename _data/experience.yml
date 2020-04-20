@@ -33,7 +33,7 @@
    * building (ETL/ELT) data pipelines with Apache Airflow
    * connecting new data sources (mostly via REST APIs) to our data platform
    * transforming data via SQL or Python Pandas to be analytics-ready
-   * designing workflows efficiently by making use of all feature of Apache Airflow 
+   * designing workflows efficiently by making use of a lot of features of Apache Airflow 
    * monitoring of our data pipelines
 
    **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
