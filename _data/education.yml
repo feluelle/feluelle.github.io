@@ -4,7 +4,7 @@
   quote: >
    Oberstufenzentrum Informations- und Medizintechnik
   dates: September 2016 - January 2018
-  qualification: Trainee IT specialist for application development   
+  qualification: Shortened apprenticeship for software development
   description: |
    During my time of the apprentice I worked at the Publicis Pixelpark GmbH. There I..
    * created a REST API with the Spring Framework in Java
@@ -17,9 +17,10 @@
   quote: >
    Aachen University of Applied Sciences
   dates: August 2013 - August 2016
-  qualification: Bachelor of Science (B. Sc.) [CANCELED]
-  # description: |
-  #  At the FH Aachen I studied ICT with specifics in application development. I learnt about..
+  qualification: Incomplete education
+  description: |
+   At the FH Aachen I studied ICT with specifics in application development. 
+  #  I learnt about..
   #  * the basics of programming in C++
   #  * several other programming languages like Assembly, Prolog and Matlab
   #  * algorithms and data structures
