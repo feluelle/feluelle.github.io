@@ -28,22 +28,23 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Felix Uellendall. I am a young Data Engineer working in a data team at a big company in 
+  Hi, my name is Felix Uellendall. I am a young Data Engineer working in a data team for a digital agency in 
   Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
   Airflow Committer.
 
   **Technical Skills**
 
-  I am most skilled in: Python, Apache Airflow and Unit Testing
+  I am most skilled in: Apache Airflow, Python and Unit Testing
 
-  I have experience in: ETL/ELT, REST, CI/CD, Software Design, Software Development, Agile Methodologies, AWS, 
-  Docker, Git, JavaScript, HTML, CSS, PostgreSQL, Amazon Redshift, Python Pandas, C#, Java and MySQL
+  I have experience in: Agile Methodologies, Amazon Redshift, AWS, C#, CI/CD, CSS, dbt, Docker, ETL/ELT, Git, 
+  great_expectations, HTML, Java, JavaScript, MySQL, PostgreSQL,  Python Pandas, REST, Software Design and 
+  Software Development
 
   I am familiar with: Node.js, Express.js, Test Driven Development and Kubernetes
 
   **Languages**
 
-  German (first language) and English (B2)
+  German (Native speaker) and English (Upper-intermediate)
 # (B1 according to [cambridge english business test](https://www.cambridgeenglish.org/test-your-english/business))
 
 # Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
@@ -61,8 +62,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  I love creating things, solving puzzles, thinking about code and what can be improved.
-  Open Source is what I like doing the most. I want to build things that people enjoy working with.
+  I love creating things, solving puzzles, thinking about code and improving challenging problems.
+  Open Source is what I like doing the most. I enjoy working in the community and share my knowledge with each other.
+
   I also fell in love with the nature and the silence being out there.
   I like hiking, playing the piano and I am fascinated by the universe.
 

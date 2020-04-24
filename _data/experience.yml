@@ -13,9 +13,9 @@
    * reporting bugs via Jira or GitHub Issues
    * communicating with the community via email and slack
    * writing Airflow Improvement Proposals in Confluence
-   * reviewing GitHub Pullrequests
+   * reviewing GitHub pull requests
    * helping users to join the community
-   * testing new releases and vote on them
+   * testing and voting releases
 
   #  **Open Source is Love ❤️. Communication is Key 💬. Commitment 🔐.**
 - layout: left
@@ -26,9 +26,9 @@
   quote: >
    "Germany's most impactful customer experience agency" - Digitas Pixelpark GmbH
   description: |
-   * built a Data Management Platform on AWS for our Data Analysts and Scientists to access analytics data 
+   * built a data management platform on AWS for our data analysts and scientists to access analytics data 
    efficiently
-   * added CI/CD to our DMP via GitLab CI/CD which lints, tests, builds documentation and deploys our code to 
+   * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation and deploys our code to 
    a development or production environment
    * building (ETL/ELT) data pipelines with Apache Airflow
    * connecting new data sources (mostly via REST APIs) to our data platform
@@ -47,7 +47,7 @@
   description: |
    * built a .NET Windows Forms applications in C#
    * learnt that code readibility is important through refactoring and mentorship
-   * worked in a team and get involved into a version control system
+   * learned the efficient usage of version control systems
    * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
    of our products
    * built a hybrid mobile application to let our customers monitor their machines status easily

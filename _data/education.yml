@@ -6,27 +6,25 @@
   dates: September 2016 - January 2018
   qualification: Shortened apprenticeship for software development
   description: |
-   During my time of the apprentice I worked at the Publicis Pixelpark GmbH. There I..
-   * created a REST API with the Spring Framework in Java
-   * created a web application with Node.js, Express.js und Handlebars
-   * created a command line application for our data team for automated transfer of social listening data into 
-   a streaming service and finally in to Amazon Redshift
+   During my time of the apprentice I was working for Publicis Pixelpark GmbH. There I built..
+   * a REST API with the Spring Framework in Java
+   * a web application with Node.js, Express.js und Handlebars
+   * a command line application for our data team for automated transfer of social listening data
 - layout: left
   name: FH Aachen
   link: https://www.fh-aachen.de/
   quote: >
    Aachen University of Applied Sciences
   dates: August 2013 - August 2016
-  qualification: Incomplete education
+  qualification: ICT with specifics in application development [Incomplete]
   description: |
-   At the FH Aachen I studied ICT with specifics in application development. 
-  #  I learnt about..
-  #  * the basics of programming in C++
-  #  * several other programming languages like Assembly, Prolog and Matlab
-  #  * algorithms and data structures
-  #  * IT security and forensic
-  #  * databases and web technologies
-  #  * computer systems architectures, operating systems and distributed systems
+   I learnt about..
+   * the basics of programming in C++
+   * several other programming languages like Assembly, Prolog and Matlab
+   * algorithms and data structures
+   * IT security and forensic
+   * databases and web technologies
+   * computer systems architectures, operating systems and distributed systems
 - layout: left
   name: Bk GuT
   link: https://www.bkgut.de/
@@ -34,6 +32,7 @@
    Berufskolleg für Gestaltung und Technik
   dates: August 2010 - August 2013
   qualification: IT assistant and advanced technical college entrance qualification
-  # description: |
-  # * the basics of programming in C# and Java
-  # * ...
+  description: |
+   I learnt about..
+   * the basics of programming in C# and Java
+   * web development with PHP and MySQL

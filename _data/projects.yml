@@ -5,9 +5,10 @@
   quote: >
     "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
   description: |
-    I found this project in January 2018 when I searched for a solution for workflow management 
-    of data pipelines. I added this to my projects even it is not created by myself, but I am a committer 
-    of this project and spending a lot of my time on it.
+    In search for a solution for the management of data pipelines I stumbled upon the Open-Source 
+    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of 
+    use cases and the community behind it. That's why I decided to give something back so I started 
+    contributing and am now a committer of this project.
 # - layout: top-middle
 #   name: pi-analytics
 #   link: https://github.com/feluelle/pi-analytics
@@ -23,4 +24,4 @@
   quote: >
     "A database and api service for movies hosted on a dockerized raspberry pi." - Felix Uellendall
   description: |
-    I created this project so that you can easily host a API service by yourself on a cheap computer.
+    A personal project for user-friendly self hosting of an API Service on simple computer devices.
