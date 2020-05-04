@@ -28,8 +28,8 @@
   description: |
    * built a data management platform on AWS for our data analysts and scientists to access analytics data 
    efficiently
-   * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation and deploys our code to 
-   a development or production environment
+   * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation
+   and deploys our code to a development or production environment
    * building (ETL/ELT) data pipelines with Apache Airflow
    * connecting new data sources (mostly via REST APIs) to our data platform
    * transforming data via SQL or Python Pandas to be analytics-ready
@@ -45,8 +45,8 @@
   quote: >
    "Our mission is to enable every SMB organization to achieve operational agility with visual scheduling." - NETRONIC Software GmbH
   description: |
-   * built a .NET Windows Forms applications in C#
-   * learnt that code readibility is important through refactoring and mentorship
+   * built a .NET Windows Forms application in C#
+   * learned that code readibility is important through refactoring and mentorship
    * learned the efficient usage of version control systems
    * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
    of our products
