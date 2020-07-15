@@ -9,14 +9,26 @@
     project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of 
     use cases and the community behind it. That's why I decided to give something back so I started 
     contributing and am now a committer of this project.
-# - layout: top-middle
-#   name: pi-analytics
-#   link: https://github.com/feluelle/pi-analytics
-#   github: feluelle/pi-analytics
-#   quote: >
-#     "An analytics stack on a raspberry pi deployed in kubernetes." - Felix Uellendall
-#   description: |
-#     I am creating this to allow almost everyone to host a whole analytics stack at home on a cheap computer.
+- layout: top-middle
+  name: airflow-diagrams
+  link: https://github.com/feluelle/airflow-diagrams
+  github: feluelle/airflow-diagrams
+  quote: >
+    "Auto-generated Diagrams from Airflow DAGs." - Felix Uellendall
+  description: |
+    A personal project to auto-generate diagrams based on Apache Airflow DAGs. Airflow DAGs specify a workflow of tasks
+    which can depend on eachother. Based of this tasks and dependency a Diagram will be generated. A Diagram visualises
+    the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
+- layout: top-middle
+  name: airflow-diagrams-plugin
+  link: https://github.com/feluelle/airflow-diagrams-plugin
+  github: feluelle/airflow-diagrams-plugin
+  quote: >
+    "An Airflow plugin to visualise airflow-diagrams." - Felix Uellendall
+  description: |
+    A personal project to easily integrate airflow-diagrams to Apache Airflow.
+    An Airflow Plugin can be easily added to a Apache Airflow installation and in this case visualises the output of
+    airflow-diagrams.
 - layout: top-middle
   name: pi-movies
   link: https://github.com/feluelle/pi-movies
