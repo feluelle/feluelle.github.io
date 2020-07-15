@@ -16,9 +16,9 @@
   quote: >
     "Auto-generated Diagrams from Airflow DAGs." - Felix Uellendall
   description: |
-    A personal project to auto-generate diagrams based on Apache Airflow DAGs. Airflow DAGs specify a workflow of tasks
-    which can depend on eachother. Based of this tasks and dependency a Diagram will be generated. A Diagram visualises
-    the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
+    A personal project to auto-generate diagrams based on Apache Airflow DAGs. Airflow DAGs specify workflows which
+    consists of tasks which can depend on eachother. Based of these tasks and dependencies a Diagram will be generated.
+    A Diagram visualises the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
 - layout: top-middle
   name: airflow-diagrams-plugin
   link: https://github.com/feluelle/airflow-diagrams-plugin
