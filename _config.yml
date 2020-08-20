@@ -35,13 +35,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   **Technical Skills**
 
-  I am most skilled in: `Apache Airflow` `Python` `Unit Testing`
+  I am most skilled in:
 
-  I have experience in: `Agile Methodologies` `Amazon Redshift` `AWS` `Bash` `C#` `CI/CD` `CSS` `dbt` `Docker` `ETL/ELT`
+  `Apache Airflow` `Python` `Unit Testing`
+
+  I have experience in:
+
+  `Agile Methodologies` `Amazon Redshift` `AWS` `Bash` `C#` `CI/CD` `CSS` `dbt` `Docker` `ETL/ELT`
   `Git` `great_expectations` `HTML` `Java` `JavaScript` `MySQL` `PostgreSQL` `Python Pandas` `REST` `Software Design`
   `Software Development` `System Testing`
 
-  I am familiar with: `Apache Spark` `Databricks` `Express.js` `GCP` `Golang` `Julialang` `Kubernetes` `Microsoft Azure`
+  I am familiar with:
+
+  `Apache Spark` `Databricks` `Express.js` `GCP` `Golang` `Julialang` `Kubernetes` `Microsoft Azure`
   `Node.js` `Terraform` `Test Driven Development`
 
   **Languages**
