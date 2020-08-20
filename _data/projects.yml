@@ -37,3 +37,11 @@
     "A database and api service for movies hosted on a dockerized raspberry pi." - Felix Uellendall
   description: |
     A personal project for user-friendly self hosting of an API Service on simple computer devices.
+- layout: top-middle
+  name: pi-analytics
+  link: https://github.com/feluelle/pi-analytics
+  github: feluelle/pi-analytics
+  quote: >
+    "An analytics stack on a raspberry pi deployed in kubernetes." - Felix Uellendall
+  description: |
+    A personal project for user-friendly self hosting of an analytics stack on simple computer devices.

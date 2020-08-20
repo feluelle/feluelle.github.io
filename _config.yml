@@ -35,14 +35,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   **Technical Skills**
 
-  I am most skilled in: Apache Airflow, Python and Unit Testing
+  I am most skilled in: `Apache Airflow` `Python` `Unit Testing`
 
-  I have experience in: Agile Methodologies, Amazon Redshift, AWS, C#, CI/CD, CSS, dbt, Docker, ETL/ELT, Git, 
-  great_expectations, HTML, Java, JavaScript, MySQL, PostgreSQL,  Python Pandas, REST, Software Design and 
-  Software Development
+  I have experience in: `Agile Methodologies` `Amazon Redshift` `AWS` `Bash` `C#` `CI/CD` `CSS` `dbt` `Docker` `ETL/ELT`
+  `Git` `great_expectations` `HTML` `Java` `JavaScript` `MySQL` `PostgreSQL` `Python Pandas` `REST` `Software Design`
+  `Software Development` `System Testing`
 
-  I am familiar with: Azure, Express.js, GCP, Golang, Julialang, Kubernetes, Node.js, Terraform and 
-  Test Driven Development
+  I am familiar with: `Apache Spark` `Databricks` `Express.js` `GCP` `Golang` `Julialang` `Kubernetes` `Microsoft Azure`
+  `Node.js` `Terraform` `Test Driven Development`
 
   **Languages**
 
@@ -65,7 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   I love creating things, solving puzzles, thinking about code and improving challenging problems.
-  Open Source is what I like doing the most. I enjoy working in the community and share my knowledge with each other.
+  Open Source is what I like doing the most. I enjoy working in the community and sharing my knowledge with each other.
 
   I also fell in love with the nature and the silence being out there.
   I like hiking, playing the piano and I am fascinated by the universe.
