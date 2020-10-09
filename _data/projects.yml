@@ -20,36 +20,11 @@
     consists of tasks which can depend on eachother. Based of these tasks and dependencies a Diagram will be generated.
     A Diagram visualises the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
 - layout: top-middle
-  name: airflow-diagrams-plugin
-  link: https://github.com/feluelle/airflow-diagrams-plugin
-  github: feluelle/airflow-diagrams-plugin
-  quote: >
-    "An Airflow plugin to visualise airflow-diagrams." - Felix Uellendall
-  description: |
-    A personal project to easily integrate airflow-diagrams to Apache Airflow.
-    An Airflow Plugin can be easily added to a Apache Airflow installation and in this case visualises the output of
-    airflow-diagrams.
-- layout: top-middle
-  name: pi-movies
-  link: https://github.com/feluelle/pi-movies
-  github: feluelle/pi-movies
-  quote: >
-    "A database and api service for movies hosted on a dockerized raspberry pi." - Felix Uellendall
-  description: |
-    A personal project for user-friendly self hosting of an API Service on simple computer devices.
-- layout: top-middle
-  name: pi-analytics
-  link: https://github.com/feluelle/pi-analytics
-  github: feluelle/pi-analytics
-  quote: >
-    "An analytics stack on a raspberry pi deployed in kubernetes." - Felix Uellendall
-  description: |
-    A personal project for user-friendly self hosting of an analytics stack on simple computer devices.
-- layout: top-middle
   name: great-data-building
   link: https://github.com/feluelle/great-data-building
   github: feluelle/great-data-building
   quote: >
-    "Let's build great data.. 🎉" - Felix Uellendall
+    "Let's build great data.." - Felix Uellendall
   description: |
-    A personal project for building data models with dbt.
+    A personal project for building data models with dbt. DBT empowers SQL to be more elegant and efficient when it
+    comes down to transforming data step by step in the data analytics and engineering field.
