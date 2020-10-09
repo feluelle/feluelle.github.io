@@ -45,3 +45,11 @@
     "An analytics stack on a raspberry pi deployed in kubernetes." - Felix Uellendall
   description: |
     A personal project for user-friendly self hosting of an analytics stack on simple computer devices.
+- layout: top-middle
+  name: great-data-building
+  link: https://github.com/feluelle/great-data-building
+  github: feluelle/great-data-building
+  quote: >
+    "Let's build great data.. 🎉" - Felix Uellendall
+  description: |
+    A personal project for building data models with dbt.
