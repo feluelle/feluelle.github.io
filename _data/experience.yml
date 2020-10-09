@@ -6,16 +6,15 @@
   quote: >
    "The World's Largest Open Source Foundation" - Apache Software Foundation
   description: |
-   For Apache Airflow I am..
-   * writing project and code documentation
-   * writing unit tests in python
-   * adding new features like Airflow hooks and operators
-   * reporting bugs via Jira or GitHub Issues
-   * communicating with the community via email and slack
-   * writing Airflow Improvement Proposals in Confluence
-   * reviewing GitHub pull requests
-   * helping users to join the community
-   * testing and voting releases
+   Folgende Punkte gehören zu meinen Aufgaben in dem Projekt Apache Airflow:
+   * Schreiben von Projekt und Code Dokumentationen
+   * Schreiben von Unit Tests in Python
+   * Hinzufügen von neuen Features wie Airflow Hooks und Operators
+   * Melden von Fehlern zu Jira oder GitHub Issues
+   * Kommunizieren mit der Community über Email und Slack
+   * Überprüfen und Bearbeiten von GitHub Pull Requests
+   * Nutzern helfen in die Community einzusteigen
+   * Testen und Abstimmen von Releases
 
   #  **Open Source is Love ❤️. Communication is Key 💬. Commitment 🔐.**
 - layout: left
@@ -26,15 +25,15 @@
   quote: >
    "Germany's most impactful customer experience agency" - Digitas Pixelpark GmbH
   description: |
-   * built a data management platform on AWS for our data analysts and scientists to access analytics data 
-   efficiently
-   * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation
-   and deploys our code to a development or production environment
-   * building (ETL/ELT) data pipelines with Apache Airflow
-   * connecting new data sources (mostly via REST APIs) to our data platform
-   * transforming data via SQL or Python Pandas to be analytics-ready
-   * designing workflows efficiently by making use of a lot of features of Apache Airflow 
-   * monitoring of our data pipelines
+   * baute eine Data Management Platform auf AWS für unsere Data Analysts und Data Scientists um effizient auf Analytics
+    Daten zugreifen zu können
+   * erstellte CI/CD für unsere DMP mithilfe von GitLab CI/CD welche den Code umfangreich testet und eine automatische
+    Dokumentation baut und diese sowie den Code auf verschiedenste Umgebungen hochlädt
+   * Bauen von (ETL/ELT) Daten Pipelines mit Apache Airflow
+   * Verbinden von neuen Datenquellen (meistens über REST APIs) zu unserer Datenplattform
+   * Transformieren der Daten mithilfe von SQL oder Python Pandas
+   * Designen von effizienten Arbeitsabläufen mithilfe von Apache Airflow
+   * Überwachen von unseren Daten Pipelines
 
   #  **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
 - layout: left
@@ -45,11 +44,11 @@
   quote: >
    "Our mission is to enable every SMB organization to achieve operational agility with visual scheduling." - NETRONIC Software GmbH
   description: |
-   * built a .NET Windows Forms application in C#
-   * learned that code readibility is important through refactoring and mentorship
-   * learned the efficient usage of version control systems
-   * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
-   of our products
-   * built a hybrid mobile application to let our customers monitor their machines status easily
+   * baute eine .NET Windows Forms Anwendung in C#
+   * lernte, dass Code Lesbarkeit wichtig ist durch die Zusammenarbeit im Team und viel Refactoring
+   * lernte die effiziente Benutzung von Version Control Systems kennen
+   * baute eine Web Anwendung, welche auf as Microsoft Azure Active Directory über eine REST API zugreift, um die
+    Benutzer zu eins unserer Produkte zu managen
+   * baute eine hybride Mobile-Anwendung, um unsere Kunden einfach ihren Machinenstatus überwachen lassen zu können
 
   #  **Code can be elegant 💎. Teamwork 👪. Coding 💻.**

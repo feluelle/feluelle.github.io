@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Felix Uellendall
-title: Data Engineer, Open Source Enthusiast and Apache Airflow Committer 
+title: Data Engineer, Open Source Enthusiast und Apache Airflow Committer
 email: feluelle@pm.me
 website: feluelle.github.io
 
@@ -26,55 +26,55 @@ additional_links:
     icon: fa-medium
 
 # About Section
-# about_title: About Me
+about_title: Über mich
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Felix Uellendall. I am a young Data Engineer working in a data team for a digital agency in 
-  Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
-  Airflow Committer.
+  Hi, ich bin Felix Uellendall - Data Engineer in einer digitalen Agentur in Berlin, Deutschland.
+  Ich bin der Apache Software Foundation im September 2019 beigetreten und auch seitdem ein Apache Airflow Committer.
 
-  **Technical Skills**
+  **Technische Skills**
 
-  I am most skilled in:
+  Am meisten Erfahrung habe ich in:
 
   `Apache Airflow` `Python` `Unit Testing`
 
-  I have experience in:
+  Ich habe außerdem Erfahrung in:
 
   `Agile Methodologies` `Amazon Redshift` `AWS` `Bash` `C#` `CI/CD` `CSS` `dbt` `Docker` `ETL/ELT`
   `Git` `great_expectations` `HTML` `Java` `JavaScript` `MySQL` `PostgreSQL` `Python Pandas` `REST` `Software Design`
   `Software Development` `System Testing`
 
-  I am familiar with:
+  Ich bin vertraut mit:
 
   `Apache Spark` `Databricks` `Express.js` `GCP` `Golang` `Julialang` `Kubernetes` `Microsoft Azure`
   `Node.js` `Terraform` `Test Driven Development`
 
-  **Languages**
+  **Sprachen**
 
-  German (Native speaker) and English (Upper-intermediate)
+  Deutsch (Muttersprache) und Englisch (obere Mittelstufe)
 # (B1 according to [cambridge english business test](https://www.cambridgeenglish.org/test-your-english/business))
 
 # Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
 # Or would you like to [connect](https://www.linkedin.com/in/feluelle/)?
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projekte
 
 # Experience Section
-# experience_title: Experience
+experience_title: Erfahrung
 
 # Education Section
-# educaton_title: Education
+educaton_title: Ausbildung
 
 # More Section
-# more_title: A Little More About Me
+more_title: Ein bisschen mehr über mich
 more_content: | # this will include new lines to allow paragraphs
-  I love creating things, solving puzzles, thinking about code and improving challenging problems.
-  Open Source is what I like doing the most. I enjoy working in the community and sharing my knowledge with each other.
+  Ich liebe es neue Dinge zu kreieren, Rätsel zu lösen über geschriebenen Code nachzudenken und ihn zu verbessern.
+  Am liebsten beschäftige ich mich in der Open Source Community. Mir macht es sehr viel Spaß dort mitzuwirken und Ideen
+  über verschiedenste Probleme untereinander auszutauschen.
 
-  I also fell in love with the nature and the silence being out there.
-  I like hiking, playing the piano and I am fascinated by the universe.
+  Außerdem mag ich die Natur sehr gerne - besonders die Ruhe die man dort draußen erlebt.
+  Ich gehe sehr gerne wandern, spiele Klavier und bin auch immer wieder sehr vom Universum fasziniert.
 
 # Footer
 footer_show_references: true

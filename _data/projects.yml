@@ -5,10 +5,10 @@
   quote: >
     "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
   description: |
-    In search for a solution for the management of data pipelines I stumbled upon the Open-Source 
-    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of 
-    use cases and the community behind it. That's why I decided to give something back so I started 
-    contributing and am now a committer of this project.
+    Auf der Suche nach einer Lösung für das Management unserer Daten Pipelines bin ich über das Open Source Projekt
+    Apache Airflow im Januar 2018 gestolpert. Ich schätze die Einfachheit der Benutzung und die hohe Abdeckung der
+    Anwendungsfälle sehr. Aber vor allem die Community dahinter. Aus diesem Grund habe ich mich dazu entschlossen etwas
+    zurück zu geben und so startete ich dabei mitzuwirken. Nun bin ich ein Committer des Projekts.
 - layout: top-middle
   name: airflow-diagrams
   link: https://github.com/feluelle/airflow-diagrams
@@ -16,9 +16,11 @@
   quote: >
     "Auto-generated Diagrams from Airflow DAGs." - Felix Uellendall
   description: |
-    A personal project to auto-generate diagrams based on Apache Airflow DAGs. Airflow DAGs specify workflows which
-    consists of tasks which can depend on eachother. Based of these tasks and dependencies a Diagram will be generated.
-    A Diagram visualises the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
+    Ein persönliches Projekt welches automatisch graphische Darstellungen aus Apache Airflow DAGs erstellt.
+    Airflow DAGs spezifieren Arbeitsabläufe welche aus einzelnen Aufgaben bestehen und voneinander abhängig sein können.
+    Basierend dieser einzelnen Tasks und Abhängigkeiten zwischen einander wird eine graphische Darstellung erstellt.
+    Eine graphische Darstellung zeigt die eingesetzten Anbieter (oft Cloud-basierte) an, welche in den Airflow DAGs
+    verwendet wurden indem nur die Logos dieser Anbieter gezeigt werden.
 - layout: top-middle
   name: great-data-building
   link: https://github.com/feluelle/great-data-building
@@ -26,5 +28,6 @@
   quote: >
     "Let's build great data.." - Felix Uellendall
   description: |
-    A personal project for building data models with dbt. DBT empowers SQL to be more elegant and efficient when it
-    comes down to transforming data step by step in the data analytics and engineering field.
+    Ein persönliches Projekt, bei dem es darum geht, Daten Modelle mit DBT zu erstellen. DBT bereichert SQL, um
+    eleganter und effizienter zu werden - vor allem wenn es auf eine schrittweisende Datentransformation ankommt,
+    wie es in dem Bereich des Data Analytics und Engineerung der Fall ist.

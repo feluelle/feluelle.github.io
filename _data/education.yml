@@ -3,36 +3,36 @@
   link: https://www.oszimt.de/
   quote: >
    Oberstufenzentrum Informations- und Medizintechnik
-  dates: September 2016 - January 2018
-  qualification: Shortened apprenticeship for software development
+  dates: September 2016 - Januar 2018
+  qualification: Verkürzte Ausbildung zum Fachinformatiker für Anwendungsentwicklung
   description: |
-   During my time of the apprentice I was working for Publicis Pixelpark GmbH. There I built..
-   * a REST API with the Spring Framework in Java
-   * a web application with Node.js, Express.js and Handlebars
-   * a command line application for our data team for automated transfer of social listening data
+   Während meiner Zeit als Auszubildender arbeitete ich für die Publicis Pixelpark GmbH. Dort habe ich erstellt..
+   * eine REST API mit dem Spring Framework in Java
+   * eine Web-Anwendung mit Node.js, Express.js und Handlebars
+   * eine Kommandozeilen-Anwendung für unser Data Team zum automatischen Transfer von Social Media Daten
 - layout: left
   name: FH Aachen
   link: https://www.fh-aachen.de/
   quote: >
    Aachen University of Applied Sciences
   dates: August 2013 - August 2016
-  qualification: ICT with specifics in application development [Incomplete]
+  qualification: Informatik mit Vertiefung Anwendungsentwicklung [Unvollständig]
   description: |
-   I learned about..
-   * the basics of programming in C++
-   * several other programming languages like Assembly, Prolog and Matlab
-   * algorithms and data structures
-   * IT security and forensic
-   * databases and web technologies
-   * computer systems architectures, operating systems and distributed systems
+   Ich habe gelernt über..
+   * die Grundlagen der Programmierung in C++
+   * verschiedenste weitere Programmiersprachen wie Assembly, Prolog and Matlab
+   * Algorithmen und Datenstrukturen
+   * IT Sicherheit und Forensik
+   * Datenbanken und Web Technologien
+   * System Architekturen, Betriebssysteme und verteilte Systeme
 - layout: left
   name: Bk GuT
   link: https://www.bkgut.de/
   quote: >
    Berufskolleg für Gestaltung und Technik
   dates: August 2010 - August 2013
-  qualification: IT assistant and advanced technical college entrance qualification
+  qualification: Informationstechnischer Assistent und Fachhochschulreife
   description: |
-   I learned about..
-   * the basics of programming in C# and Java
-   * web development with PHP and MySQL
+   Ich habe gelernt über..
+   * die Grundlagen der Programmierung in C# und Java
+   * Web-Entwicklung mit PHP und MySQL
