@@ -6,21 +6,21 @@
   dates: September 2016 - Januar 2018
   qualification: Verkürzte Ausbildung zum Fachinformatiker für Anwendungsentwicklung
   description: |
-   Während meiner Zeit als Auszubildender arbeitete ich für die Publicis Pixelpark GmbH. Dort habe ich erstellt..
-   * eine REST API mit dem Spring Framework in Java
-   * eine Web-Anwendung mit Node.js, Express.js und Handlebars
-   * eine Kommandozeilen-Anwendung für unser Data Team zum automatischen Transfer von Social Media Daten
+   Während meiner Zeit als Auszubildender arbeitete ich für die Publicis Pixelpark GmbH. Dort habe ich..
+   * eine REST API mit dem Spring Framework in Java erstellt
+   * eine Web-Anwendung mit Node.js, Express.js und Handlebars gebaut
+   * eine Kommandozeilen-Anwendung für unser Data Team zum automatischen Transfer von Social Media Daten erstellt
 - layout: left
   name: FH Aachen
   link: https://www.fh-aachen.de/
   quote: >
    Aachen University of Applied Sciences
   dates: August 2013 - August 2016
-  qualification: Informatik mit Vertiefung Anwendungsentwicklung [Unvollständig]
+  qualification: Informatik mit Vertiefung Anwendungsentwicklung [unvollständig]
   description: |
    Ich habe gelernt über..
    * die Grundlagen der Programmierung in C++
-   * verschiedenste weitere Programmiersprachen wie Assembly, Prolog and Matlab
+   * verschiedenste weitere Programmiersprachen wie Assembly, Prolog und Matlab
    * Algorithmen und Datenstrukturen
    * IT Sicherheit und Forensik
    * Datenbanken und Web Technologien
