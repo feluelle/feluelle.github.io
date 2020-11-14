@@ -5,10 +5,10 @@
   quote: >
     "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
   description: |
-    Auf der Suche nach einer Lösung für das Management unserer Daten Pipelines bin ich über das Open Source Projekt
-    Apache Airflow im Januar 2018 gestolpert. Ich schätze die Einfachheit der Benutzung und die hohe Abdeckung der
-    Anwendungsfälle sehr. Aber vor allem die Community dahinter. Aus diesem Grund habe ich mich dazu entschlossen etwas
-    zurück zu geben und so startete ich dabei mitzuwirken. Nun bin ich ein Committer des Projekts.
+    Auf der Suche nach einer Lösung für das Management unserer Daten-Pipelines bin ich auf das Open Source Projekt
+    Apache Airflow im Januar 2018 gestoßen. Ich schätze die Einfachheit der Benutzung und die hohe Abdeckung der
+    Anwendungsfälle sehr - aber vor allem die Community dahinter. Aus diesem Grund habe ich mich dazu entschlossen etwas
+    zurückzugeben und begann ich dabei mitzuwirken. Nun bin ich ein Committer des Projekts.
 - layout: top-middle
   name: airflow-diagrams
   link: https://github.com/feluelle/airflow-diagrams
@@ -17,8 +17,8 @@
     "Auto-generated Diagrams from Airflow DAGs." - Felix Uellendall
   description: |
     Ein persönliches Projekt welches automatisch graphische Darstellungen aus Apache Airflow DAGs erstellt.
-    Airflow DAGs spezifieren Arbeitsabläufe welche aus einzelnen Aufgaben bestehen und voneinander abhängig sein können.
-    Basierend dieser einzelnen Tasks und Abhängigkeiten zwischen einander wird eine graphische Darstellung erstellt.
+    Airflow DAGs spezifizieren Arbeitsabläufe, welche aus einzelnen Aufgaben bestehen und voneinander abhängig sein können.
+    Basierend auf diesen einzelnen Tasks und Abhängigkeiten zwischeneinander wird eine graphische Darstellung erstellt.
     Eine graphische Darstellung zeigt die eingesetzten Anbieter (oft Cloud-basierte) an, welche in den Airflow DAGs
     verwendet wurden indem nur die Logos dieser Anbieter gezeigt werden.
 - layout: top-middle
@@ -28,6 +28,6 @@
   quote: >
     "Let's build great data.." - Felix Uellendall
   description: |
-    Ein persönliches Projekt, bei dem es darum geht, Daten Modelle mit DBT zu erstellen. DBT bereichert SQL, um
+    Ein persönliches Projekt, bei dem es darum geht, Datenmodelle mit DBT zu erstellen. DBT bereichert SQL, um
     eleganter und effizienter zu werden - vor allem wenn es auf eine schrittweisende Datentransformation ankommt,
     wie es in dem Bereich des Data Analytics und Engineering der Fall ist.

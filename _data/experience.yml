@@ -2,7 +2,7 @@
   company: Apache Software Foundation
   link: https://www.apache.org/
   job_title: Apache Airflow Committer
-  dates: September 2019 - Present
+  dates: September 2019 - Heute
   quote: >
    "The World's Largest Open Source Foundation" - Apache Software Foundation
   description: |
@@ -21,19 +21,19 @@
   company: Digitas Pixelpark GmbH
   link: https://www.digitaspixelpark.com/
   job_title: Junior Data Engineer
-  dates: January 2018 - Present
+  dates: Januar 2018 - November 2020
   quote: >
    "Germany's most impactful customer experience agency" - Digitas Pixelpark GmbH
   description: |
-   * baute eine Data Management Platform auf AWS für unsere Data Analysts und Data Scientists um effizient auf Analytics
+   * baute eine Data Management Platform auf AWS für unsere Data Analysts und Data Scientists, um effizient auf Analytics
     Daten zugreifen zu können
-   * erstellte CI/CD für unsere DMP mithilfe von GitLab CI/CD welche den Code umfangreich testet und eine automatische
+   * erstellte CI/CD für unsere DMP mithilfe von GitLab CI/CD, welche den Code umfangreich testet und eine automatische
     Dokumentation baut und diese sowie den Code auf verschiedenste Umgebungen hochlädt
-   * Bauen von (ETL/ELT) Daten Pipelines mit Apache Airflow
-   * Verbinden von neuen Datenquellen (meistens über REST APIs) zu unserer Datenplattform
-   * Transformieren der Daten mithilfe von SQL oder Python Pandas
-   * Designen von effizienten Arbeitsabläufen mithilfe von Apache Airflow
-   * Überwachen von unseren Daten Pipelines
+   * baute (ETL/ELT) Daten-Pipelines mit Apache Airflow
+   * verband neue Datenquellen (meistens über REST APIs) zu unserer Datenplattform
+   * transformierte Daten mithilfe von SQL oder Python Pandas
+   * designte effiziente Arbeitsabläufen mithilfe von Apache Airflow
+   * überwachte unsere Daten-Pipelines
 
   #  **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
 - layout: left
@@ -49,6 +49,6 @@
    * lernte die effiziente Benutzung von Version Control Systems kennen
    * baute eine Web Anwendung, welche auf das Microsoft Azure Active Directory über eine REST API zugreift, um die
     Benutzer zu einem unserer Produkte zu managen
-   * baute eine hybride Mobile-Anwendung, um unsere Kunden einfach ihren Machinenstatus überwachen lassen zu können
+   * baute eine hybride Mobile-Anwendung, um unsere Kunden einfach ihren Maschinenstatus überwachen lassen zu können
 
   #  **Code can be elegant 💎. Teamwork 👪. Coding 💻.**
