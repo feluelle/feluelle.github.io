@@ -22,7 +22,7 @@
   company: Digitas Pixelpark GmbH
   link: https://www.digitaspixelpark.com/
   job_title: Junior Data Engineer
-  dates: January 2018 - Present
+  dates: January 2018 - November 2020
   quote: >
    "Germany's most impactful customer experience agency" - Digitas Pixelpark GmbH
   description: |
@@ -30,11 +30,11 @@
    efficiently
    * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation
    and deploys our code to a development or production environment
-   * building (ETL/ELT) data pipelines with Apache Airflow
-   * connecting new data sources (mostly via REST APIs) to our data platform
-   * transforming data via SQL or Python Pandas to be analytics-ready
-   * designing workflows efficiently by making use of a lot of features of Apache Airflow 
-   * monitoring of our data pipelines
+   * built (ETL/ELT) data pipelines with Apache Airflow
+   * connected new data sources (mostly via REST APIs) to our data platform
+   * transformed data via SQL or Python Pandas to be analytics-ready
+   * designed workflows efficiently by making use of a lot of features of Apache Airflow 
+   * monitored of our data pipelines
 
   #  **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
 - layout: left
