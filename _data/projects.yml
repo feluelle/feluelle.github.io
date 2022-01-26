@@ -5,9 +5,9 @@
   quote: >
     "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
   description: |
-    In search for a solution for the management of data pipelines I stumbled upon the Open-Source 
-    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of 
-    use cases and the community behind it. That's why I decided to give something back so I started 
+    In search for a solution for the management of data pipelines I stumbled upon the Open-Source
+    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of
+    use cases and the community behind it. That's why I decided to give something back so I started
     contributing and am now a committer of this project.
 - layout: top-middle
   name: airflow-diagrams

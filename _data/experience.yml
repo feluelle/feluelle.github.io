@@ -40,14 +40,14 @@
   quote: >
    "Germany's most impactful customer experience agency" - Digitas Pixelpark GmbH
   description: |
-   * built a data management platform on AWS for our data analysts and scientists to access analytics data 
+   * built a data management platform on AWS for our data analysts and scientists to access analytics data
    efficiently
    * added CI/CD to our DMP (data management platform) via GitLab CI/CD which lints, tests, builds documentation
    and deploys our code to a development or production environment
    * built (ETL/ELT) data pipelines with Apache Airflow
    * connected new data sources (mostly via REST APIs) to our data platform
    * transformed data via SQL or Python Pandas to be analytics-ready
-   * designed workflows efficiently by making use of a lot of features of Apache Airflow 
+   * designed workflows efficiently by making use of a lot of features of Apache Airflow
    * monitored of our data pipelines
 
    **Containers are awesome 🐳. Automatisation 🔄. Cloud Services ☁️. Leading 👨‍🏫.**
@@ -62,7 +62,7 @@
    * built a .NET Windows Forms application in C#
    * learned that code readibility is important through refactoring and mentorship
    * learned the efficient usage of version control systems
-   * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one 
+   * built a web application accessing Microsoft Azure Active Directoy via a REST API to manage users for one
    of our products
    * built a hybrid mobile application to let our customers monitor their machines status easily
 

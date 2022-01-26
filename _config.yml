@@ -4,20 +4,20 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Felix Uellendall
-title: Data Engineer, Open Source Enthusiast and Apache Airflow Committer 
+title: Data Engineer, Open Source Enthusiast and Apache Airflow Committer
 email: feluelle@pm.me
 website: feluelle.github.io
 
 # Social links
-# twitter_username: 
+# twitter_username:
 github_username: feluelle
-# dribbble_username: 
-# facebook_username: 
-# flickr_username: 
-# instagram_username: 
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
 linkedin_username: feluelle
 xing_username: Felix_Uellendall
-# pinterest_username: 
+# pinterest_username:
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # additional_links:
@@ -29,8 +29,8 @@ xing_username: Felix_Uellendall
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi 👋🏼, my name is Felix Uellendall. I am a Data Engineer 🧑🏼‍💻 working in a data team for a bank 🏦 in 
-  Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
+  Hi 👋🏼, my name is Felix Uellendall. I am a Data Engineer 🧑🏼‍💻 working in a data team for a bank 🏦 in
+  Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache
   Airflow Committer.
 
   **Technical Skills 💻**
@@ -52,7 +52,7 @@ about_content: |
 
   German (Native speaker) and English (Upper-intermediate)
 
-# Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
+# Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about?
 # Or would you like to [connect](https://www.linkedin.com/in/feluelle/)?
 
 # Projects Section
