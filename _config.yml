@@ -20,20 +20,20 @@ xing_username: Felix_Uellendall
 # pinterest_username: 
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-additional_links:
-  - title: felix.uellendall
-    url: https://medium.com/@felix.uellendall
-    icon: fa-medium
+# additional_links:
+#   - title: felix.uellendall
+#     url: https://medium.com/@felix.uellendall
+#     icon: fa-medium
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: |
-  Hi, my name is Felix Uellendall. I am a Data Engineer working in a data team for a bank in 
+  Hi 👋🏼, my name is Felix Uellendall. I am a Data Engineer 🧑🏼‍💻 working in a data team for a bank 🏦 in 
   Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
   Airflow Committer.
 
-  **Technical Skills**
+  **Technical Skills 💻**
 
   I am most skilled in:
 
@@ -48,7 +48,7 @@ about_content: |
   AWS, Bash, CI/CD, dbt, Distributed Systems, ETL/ELT, Git, great_expectations, Kubernetes, PostgreSQL,
   REST, Snowflake, Software Design, Software Development, System Testing, Test Driven Development
 
-  **Languages**
+  **Languages 💬**
 
   German (Native speaker) and English (Upper-intermediate)
 
