@@ -1,0 +1,11 @@
+version: '3'
+
+tasks:
+  install:
+    cmds:
+      - gem install jekyll bundler
+      - bundle install && bundle update
+
+  serve:
+    cmds:
+      - bundle exec jekyll serve

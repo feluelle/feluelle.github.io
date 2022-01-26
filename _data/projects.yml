@@ -14,17 +14,17 @@
   link: https://github.com/feluelle/airflow-diagrams
   github: feluelle/airflow-diagrams
   quote: >
-    "Auto-generated Diagrams from Airflow DAGs." - Felix Uellendall
+    "Auto-generated Diagrams from Airflow DAGs. 🔮 🪄" - Felix Uellendall
   description: |
     A personal project to auto-generate diagrams based on Apache Airflow DAGs. Airflow DAGs specify workflows which
     consists of tasks which can depend on eachother. Based of these tasks and dependencies a Diagram will be generated.
     A Diagram visualises the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
 - layout: top-middle
-  name: great-data-building
-  link: https://github.com/feluelle/great-data-building
-  github: feluelle/great-data-building
+  name: kind-data-platform
+  link: https://github.com/feluelle/kind-data-platform
+  github: feluelle/kind-data-platform
   quote: >
-    "Let's build great data.." - Felix Uellendall
+    "A kind data platform on your local machine. 🤗" - Felix Uellendall
   description: |
-    A personal project for building data models with dbt. DBT empowers SQL to be more elegant and efficient when it
-    comes down to transforming data step by step in the data analytics and engineering field.
+    A personal project for building a data platform via kubernetes-in-docker fully on your local machine, shipped with tools
+    such as Apache Airflow, DBT, Apache Superset & a lot more.

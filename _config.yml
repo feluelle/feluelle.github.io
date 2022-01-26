@@ -28,8 +28,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Felix Uellendall. I am a young Data Engineer working in a data team for a digital agency in 
+about_content: |
+  Hi, my name is Felix Uellendall. I am a Data Engineer working in a data team for a bank in 
   Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache 
   Airflow Committer.
 
@@ -37,23 +37,20 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in:
 
-  `Apache Airflow` `Python` `Unit Testing`
+  * Apache Airflow
+  * Docker
+  * Python
+  * Terraform
+  * Unit Testing
 
   I have experience in:
 
-  `Agile Methodologies` `Amazon Redshift` `AWS` `Bash` `C#` `CI/CD` `CSS` `dbt` `Docker` `ETL/ELT`
-  `Git` `great_expectations` `HTML` `Java` `JavaScript` `MySQL` `PostgreSQL` `Python Pandas` `REST` `Software Design`
-  `Software Development` `System Testing`
-
-  I am familiar with:
-
-  `Apache Spark` `Databricks` `Express.js` `GCP` `Golang` `Julialang` `Kubernetes` `Microsoft Azure`
-  `Node.js` `Terraform` `Test Driven Development`
+  AWS, Bash, CI/CD, dbt, Distributed Systems, ETL/ELT, Git, great_expectations, Kubernetes, PostgreSQL,
+  REST, Snowflake, Software Design, Software Development, System Testing, Test Driven Development
 
   **Languages**
 
   German (Native speaker) and English (Upper-intermediate)
-# (B1 according to [cambridge english business test](https://www.cambridgeenglish.org/test-your-english/business))
 
 # Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about? 
 # Or would you like to [connect](https://www.linkedin.com/in/feluelle/)?
@@ -69,7 +66,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+more_content: |
   I love creating things, solving puzzles, thinking about code and improving challenging problems.
   Open Source is what I like doing the most. I enjoy working in the community and sharing my knowledge with each other.
 
