@@ -7,9 +7,10 @@
    "Make your money work for you." - Trade Republic Bank GmbH
   description: |
    For Trade Republic I am..
-   * building the data infrastructure, decisions are made upon
-   * enabling data scientists, analytics engineers and others to query data efficiently
-   * enabling our users to build pipelines i.e. to connect several sources to our data platform
+   * building a data platform on aws from scratch with terraform, kubernetes (eks, fargate), snowflake, airflow (mwaa), dbt, dms, and more
+   * maintaining airflow pipelines for data ingestion
+   * onboarding data scientists and analytic engineers to the data platform
+   * scaling services to handle the rapidly growing organization from serving 7 to serving about 150 engineers
 
    **Scaling Users 🧑‍🔬. Scaling Tools & Services 🛠. Scaling Infrastructure 🏡.**
 - layout: left

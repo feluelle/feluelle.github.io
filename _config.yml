@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Felix Uellendall
-title: Data Engineer, Open Source Enthusiast and Apache Airflow Committer
+title: Data Engineer 👨🏼‍💻 @traderepublic | Open Sourcerer 🧙 @❤️ | Committer @apache Airflow 🪶
 email: feluelle@pm.me
 website: feluelle.github.io
 
@@ -33,27 +33,24 @@ about_content: |
   Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache
   Airflow Committer.
 
-  **Technical Skills 💻**
+  ### Tools & Services
 
-  I am most skilled in:
+  ![ApacheAirflow](https://img.shields.io/badge/ApacheAirflow-017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
-  * Apache Airflow
-  * Docker
-  * Python
-  * Terraform
-  * Unit Testing
+  _Sorted by Expertise_
 
-  I have experience in:
+  _Badges created via [auto-markdown-badges](https://github.com/feluelle/auto-markdown-badges)_
 
-  AWS, Bash, CI/CD, dbt, Distributed Systems, ETL/ELT, Git, great_expectations, Kubernetes, PostgreSQL,
-  REST, Snowflake, Software Design, Software Development, System Testing, Test Driven Development
+  ### Industrial Knowledge
 
-  **Languages 💬**
+  `Unit Testing` `Data Lake` `Data Ingestion` `Data Warehousing` `CI/CD` `Distributed Systems` `ETL/ELT` `REST` `Software Design` `Software Development` `System Testing`
 
-  German (Native speaker) and English (Upper-intermediate)
+  _Sorted by Expertise_
 
-# Are you interested in what I am currently [writing](https://medium.com/@felix.uellendall) about?
-# Or would you like to [connect](https://www.linkedin.com/in/feluelle/)?
+  ### Languages
+
+  * German 🇩🇪 (Native speaker)
+  * English 🇬🇧 (Upper-intermediate)
 
 # Projects Section
 # projects_title: Projects

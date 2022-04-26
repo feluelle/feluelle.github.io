@@ -1,14 +1,14 @@
 - layout: top-middle
-  name: Apache Airflow
-  link: https://github.com/apache/airflow
-  github: apache/airflow
+  name: airflint
+  link: https://github.com/feluelle/airflint
+  github: feluelle/airflint
   quote: >
-    "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
+    "Enforce Best Practices for all your Airflow DAGs. ⭐" - Felix Uellendall
   description: |
-    In search for a solution for the management of data pipelines I stumbled upon the Open-Source
-    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of
-    use cases and the community behind it. That's why I decided to give something back so I started
-    contributing and am now a committer of this project.
+    A personal project to enforce best practices for all your Airflow DAGs. Airflint lints your Airflow DAGs
+    and reformats them to be compliant with Airflow Best Practices. ⭐️
+    It contains rules to reformat your DAGs, like use the new task decorator instead of PythonOperator or even
+    detect if jinja syntax can be used instead of calling Variable.get() which makes Airflow much more performant and stable.
 - layout: top-middle
   name: airflow-diagrams
   link: https://github.com/feluelle/airflow-diagrams
@@ -20,6 +20,15 @@
     consists of tasks which can depend on eachother. Based of these tasks and dependencies a Diagram will be generated.
     A Diagram visualises the provider (often cloud-based) used in the Airflow DAGs by simply displaying its logos.
 - layout: top-middle
+  name: auto-markdown-badges
+  link: https://github.com/feluelle/auto-markdown-badges
+  github: feluelle/auto-markdown-badges
+  quote: >
+    "Auto-generated markdown badges. 🧙🖼" - Felix Uellendall
+  description: |
+    A personal project to auto-generate markdown badges from words and links.
+    Inspired by markdown-badges, I wanted to have a tool which automatically creates badges for me.
+- layout: top-middle
   name: kind-data-platform
   link: https://github.com/feluelle/kind-data-platform
   github: feluelle/kind-data-platform
@@ -28,3 +37,14 @@
   description: |
     A personal project for building a data platform via kubernetes-in-docker fully on your local machine, shipped with tools
     such as Apache Airflow, DBT, Apache Superset & a lot more.
+- layout: top-middle
+  name: Apache Airflow
+  link: https://github.com/apache/airflow
+  github: apache/airflow
+  quote: >
+    "Airflow is a platform to programmatically author, schedule and monitor workflows." - Apache Airflow
+  description: |
+    In search for a solution for the management of data pipelines I stumbled upon the Open-Source
+    project Apache Airflow in January 2018. I really appreciate the simplicity of use, high coverage of
+    use cases and the community behind it. That's why I decided to give something back so I started
+    contributing and am now a committer of this project.
