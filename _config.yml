@@ -29,7 +29,7 @@ xing_username: Felix_Uellendall
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi 👋🏼, my name is Felix Uellendall. I am a Data Engineer 🧑🏼‍💻 working in a data team for a bank 🏦 in
+  Hi 👋🏼, my name is Felix Uellendall. I am a Data Engineer 🧑🏼‍💻 working in the data infrastructure team for a bank 🏦 in
   Berlin, Germany. I joined the Apache Software Foundation in September 2019. Since then I am also an Apache
   Airflow Committer.
 
@@ -43,7 +43,7 @@ about_content: |
 
   ### Industrial Knowledge
 
-  `Unit Testing` `Data Lake` `Data Ingestion` `Data Warehousing` `CI/CD` `Distributed Systems` `ETL/ELT` `REST` `Software Design` `Software Development` `System Testing`
+  `Data Engineering` `Software Engineering` `Unit Testing` `Orchestration` `Batch Processing` `Data Lake` `Data Ingestion` `CI/CD` `Data Infrastructure` `Distributed Systems` `ETL/ELT` `Monitoring` `Alerting` `Data Observability` `Stream Processing`
 
   _Sorted by Expertise_
 
