@@ -11,6 +11,8 @@
    * maintaining airflow pipelines for data ingestion
    * onboarding data scientists and analytic engineers to the data platform
    * scaling services to handle the rapidly growing organization from serving 7 to serving about 150 engineers
+   * planning, coordinating and implementing the migration from self-hosted Airflow to MWAA
+   * building an Airflow PR development workflow on a remote airflow instance that scales, handles 100s of engineers developing concurrently
 
    **Scaling Users 🧑‍🔬. Scaling Tools & Services 🛠. Scaling Infrastructure 🏡.**
 - layout: left
