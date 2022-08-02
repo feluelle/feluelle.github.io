@@ -1,8 +1,23 @@
 - layout: left
+  company: Astronomer
+  link: https://www.astronomer.io
+  job_title: Senior Software Engineer
+  dates: August 2022 - Present
+  quote: >
+   "Modern Data Orchestration - Build, run, and observe data pipelines-as-code with Astro, the essential data orchestration platform powered by Apache Airflow™." - Astronomer
+  description: |
+   For Astronomer I am..
+   * iterating and improving on Airflow's developer and DAG authoring experiences
+   * adding new third-party integrations (aka “Providers”) to Apache Airflow
+   * providing technical direction, mentorship, pairing opportunities, and code reviews to encourage the growth of others
+   * improving code quality, test coverage, and reducing test runtime
+
+   **Improving Apache Airflow ❤️. Building Tools around Apache Airflow 🛠.**
+- layout: left
   company: Trade Republic Bank GmbH
   link: https://traderepublic.com/
   job_title: Data Engineer
-  dates: November 2020 - Present
+  dates: November 2020 - July 2022
   quote: >
    "Make your money work for you." - Trade Republic Bank GmbH
   description: |

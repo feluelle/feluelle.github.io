@@ -6,9 +6,9 @@
     "Enforce Best Practices for all your Airflow DAGs. ⭐" - Felix Uellendall
   description: |
     A personal project to enforce best practices for all your Airflow DAGs. Airflint lints your Airflow DAGs
-    and reformats them to be compliant with Airflow Best Practices. ⭐️
-    It contains rules to reformat your DAGs, like use the new task decorator instead of PythonOperator or even
-    detect if jinja syntax can be used instead of calling `Variable.get()` which makes Airflow much more performant and stable.
+    and reformats them to be compliant with Airflow Best Practices. It consists of rules e.g. use function-level imports
+    instead of top-level imports or even detect if jinja syntax can be used instead of calling `Variable.get()`
+    which makes Airflow much more performant and stable.
 - layout: top-middle
   name: airflow-diagrams
   link: https://github.com/feluelle/airflow-diagrams
